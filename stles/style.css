@@ -133,11 +133,12 @@
        background: rgba(48, 48, 48, 0.54);
        backdrop-filter: blur(50%);
        position: absolute;
-       top: 78%;
-       left: 55%;
+       top: 70%;
+       left: -30%;
       
     }
     .image-bg-2{
+        width: 193px;
         position: absolute;
         text-align: start;
         position: absolute;
@@ -147,8 +148,8 @@
         border-radius: 12px;
         backdrop-filter: blur(20px);
         background: rgba(255, 255, 255, 0.1);
-        left: 77%;
-        top: 40%;
+        left: 60%;
+        top: 18%;
     }
     
     .elips-col{
@@ -599,10 +600,17 @@
         flex-direction: column;
     }
     .image-bg-1{
-      
-        top: 69%;
+        top: 40%;
         left: 4%;
     }
+    .image-bg-2{
+        position: absolute;
+        width: 145px;
+        height: 74px;
+        top: 50%;
+        right: 90%;
+    }
+   
     .banner-btn{
         display: flex;
         flex-direction: column;
