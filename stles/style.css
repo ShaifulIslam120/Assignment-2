@@ -148,8 +148,8 @@
         border-radius: 12px;
         backdrop-filter: blur(20px);
         background: rgba(255, 255, 255, 0.1);
-        left: 65%;
-        top: 40%;
+        left: 25%;
+        top: 22%;
     }
     
     .elips-col{
@@ -604,11 +604,15 @@
         left: 4%;
     }
     .image-bg-2{
-        position: absolute;
+       
         width: 145px;
         height: 74px;
-        top: 50%;
-        right: 90%;
+        top: 8%;
+        left: 58%;
+        
+    }
+    .elips-col-2{
+        padding: 10px;
     }
    
     .banner-btn{
@@ -619,12 +623,7 @@
     .btn-2{
         margin-left: 0;
     }
-    .image-bg-2{
-        top: 60%;
-        left: 58%;
-        
-     
-    }
+    
    .fitness{
         margin-left: 20px;
     }
