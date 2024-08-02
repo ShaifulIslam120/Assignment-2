@@ -138,8 +138,8 @@
       
     }
     .image-bg-2{
-        width: 193px;
-        position: absolute;
+        width: 200px;
+        position: sticky;
         text-align: start;
         position: absolute;
         display: flex;
@@ -148,8 +148,8 @@
         border-radius: 12px;
         backdrop-filter: blur(20px);
         background: rgba(255, 255, 255, 0.1);
-        left: 60%;
-        top: 18%;
+        left: 65%;
+        top: 40%;
     }
     
     .elips-col{
@@ -620,8 +620,8 @@
         margin-left: 0;
     }
     .image-bg-2{
-        top: 55%;
-        left: 54%;
+        top: 60%;
+        left: 58%;
         
      
     }
