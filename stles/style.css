@@ -111,6 +111,7 @@
     }
     .image{
         margin-left: 167px;
+        position: relative;
     
     }
     .ellipse{
@@ -123,6 +124,7 @@
          margin-bottom: 28px;
     }
     .image-bg-1{
+        position: absolute;
        display: flex;
        align-items: center;
        border: 1px solid rgba(255, 255, 255, 0.1);
@@ -136,6 +138,7 @@
       
     }
     .image-bg-2{
+        position: absolute;
         text-align: start;
         position: absolute;
         display: flex;
